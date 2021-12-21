@@ -1,0 +1,1068 @@
+[
+    {
+        "name": 0,
+        "status": "Название кабинета",
+        "description": "Описание кабинета",
+        "img": [
+            "content/0-1.png",
+            "content/0-2.jpg"],
+        "icon": "content/icon/0-2.jpg",
+        "floor": 4,
+        "note":"!=============!=ИСПОЛЬЗУЕТСЯ ТОЛЬКО ДЛЯ ПРИМЕРА=!=============!"
+    },
+    {
+        "name": "1001",
+        "status": "Техническое помещение",
+        "description": "Описание кабинета",
+        "img": [],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "1000",
+        "status": "Кабинет школы",
+        "description": "Описание кабинета",
+        "img": [],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "corridor",
+        "status": "Коридор",
+        "description": "Описание кабинета",
+        "img": [],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "ladder",
+        "status": "Лестница",
+        "description": "Описание кабинета",
+        "img": [],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "1002",
+        "status": "Гардероб",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/gard.webp"],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "1003",
+        "status": "Бистро \"Апельсин\"",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/bistro-apelsin-1.webp", "img/content/first__floor/bistro-apelsin-2.webp"],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "1004",
+        "status": "Столовая \"Ариадна\"",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/ariadna-1.webp", "img/content/first__floor/ariadna-2.webp", "img/content/first__floor/ariadna-3.webp"],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "1005",
+        "status": "Типография",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/typography-1.webp"],
+        "icon": "",
+        "floor": "1",
+        "note":""
+    },
+    {
+        "name": "1006",
+        "status": "Пункт охраны",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/security.webp"],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "1007",
+        "status": "Банкомат",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/bank.webp"],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "1008",
+        "status": "Переход в школу",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/road7-1.webp", "img/content/second__floor/road7-2.webp"],
+        "icon": "",
+        "floor": "",
+        "note":""
+    },
+    {
+        "name": "1009",
+        "status": "Типография",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/typography-3.webp"],
+        "icon": "",
+        "floor": "3",
+        "note":""
+    },
+
+
+    {
+        "name": 103,
+        "status": "Кабинет метрологии и стандартизации",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/103.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 105,
+        "status": "Приёмная комиссия",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/105.webp"],
+        "icon": "content/icon/admission.",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 106,
+        "status": "Отдел среднего профессионального образования",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/106.webp"],
+        "icon": "content/icon/dep_secEdu.",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 107,
+        "status": "Школа парикмахерского искусства Pivot Point",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/107.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 108,
+        "status": "Кабинет гуманитарных и социально-экономических дисциплин",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/108.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 109,
+        "status": "Деканат",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/109-1.webp","img/content/first__floor/109-2.webp","img/content/first__floor/109-3.webp","img/content/first__floor/109-4.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 110,
+        "status": "Научно-методический отдел",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/110.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 111,
+        "status": "Учебный отдел",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/111.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 112,
+        "status": "Кафедра педагогики и психологии",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/112.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 113,
+        "status": "Кабинет математических дисциплин",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/113.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 114,
+        "status": "Кафедра гуманитарных дисциплин",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/114.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 115,
+        "status": " Кабинет безопасности жизнедеятельности",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/115.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 116,
+        "status": "Кабинет социальной психологии и психологии общения",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/116.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 117,
+        "status": "Кабинет гуманитарных дисциплин",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/117.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 118,
+        "status": " Мастерская \"Салон-парикмахерская\"",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/118.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 119,
+        "status": "Кабинет междисциплинарных курсов",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/119.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 120,
+        "status": "Ошибка 404",
+        "description": "Описание кабинета",
+        "img": [],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 121,
+        "status": "Кабинет правового и документационного обеспечения профессиональной деятельности",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/121.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 122,
+        "status": "Библиотека",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/122-1.webp","img/content/first__floor/122-2.webp","img/content/first__floor/122-3.webp"],
+        "icon": "content/icon/library.*",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 123,
+        "status": "Кабинет экономико-финансовых дисциплин и бухгалтерского учета",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/123.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 125,
+        "status": "Кабинет экономики, менеджмента, маркетинга, теории бухгалтерского учёта",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/125.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+    {
+        "name": 127,
+        "status": "Лаборатория технологии парикмахерских услуг",
+        "description": "Описание кабинета",
+        "img": ["img/content/first__floor/127-1.webp", "img/content/first__floor/127-2.webp", "img/content/first__floor/127-3.webp"],
+        "icon": "",
+        "floor": 1,
+        "note":""
+    },
+
+
+
+    {
+        "name": 201,
+        "status": "Финансово-экономический отдел",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/201.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Финансовый директор"
+    },
+    {
+        "name": 203,
+        "status": "Бухгалтерия",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/203.webp"],
+        "icon": "content/icon/accounting.*",
+        "floor": 2,
+        "note":"Главный бухгалтер"
+    },
+    {
+        "name": 204,
+        "status": "Отдел кадров",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/204.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Отдел кадров"
+    },
+    {
+        "name": 205,
+        "status": "Касса",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/205.webp"],
+        "icon": "content/icon/box_office.*",
+        "floor": 2,
+        "note":"Касса + помещение к ней"
+    },
+    {
+        "name": 206,
+        "status": "Кабинет основ предпринимательской деятельности",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/206.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Большая аудитория"
+    },
+    {
+        "name": 207,
+        "status": "Главный бухгалтер",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/207.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 208,
+        "status": "Приёмная, кабинет ректора",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/208.webp"],
+        "icon": "content/icon/rector.*",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 209,
+        "status": "Первый проректор",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/209.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Проректоры (Первый проректор)"
+    },
+    {
+        "name": 210,
+        "status": "Проректор по научной работе",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/210.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Проректоры (Проректор по научной работе)"
+    },
+    {
+        "name": 211,
+        "status": "Проректор по учебно-проектной работе",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/211.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Проректоры (Проректор по учебно-проектной работе) + Директор 7 ключей"
+    },
+    {
+        "name": 212,
+        "status": "Кабинет менеджмента и управления персоналом",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/212.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Длинная аудитория"
+    },
+    {
+        "name": 214,
+        "status": "Раздевалка",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/214.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Раздевалка"
+    },
+    {
+        "name": 219,
+        "status": "Лекционная аудитория",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/219.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Большая аудитория"
+    },
+    {
+        "name": 227,
+        "status": "Кабинет организации деятельности службы бронирования; службы приема, размещения и выпуска гостей; продаж гостиничного продукта",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/227.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 228,
+        "status": "Учебный(тренинговый офис)",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/228.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 229,
+        "status": "Лингафонная лаборатория",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/229-1.webp", "img/content/second__floor/229-2.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 230,
+        "status": "Учебный гостиничный номер",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/230.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 231,
+        "status": "Кафедра лингвистики и межкультурной коммуникации",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/231.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Кафедра лингвистики и межкультурной коммуникации"
+    },
+    {
+        "name": 232,
+        "status": "Кабинет иностранных языков",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/232.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 233,
+        "status": "Кабинет иностранных языков",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/233.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 234,
+        "status": "Кафедра сервиса и туризма",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/234.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 235,
+        "status": "Кафедра международного сервиса и туризма",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/235.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Кафедра международного сервиса и туризма + Высшая школа сервиса и туризма"
+    },
+    {
+        "name": 236,
+        "status": "Кафедра лингвистики и межкультурной коммуникации",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/236.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 238,
+        "status": "Кабинет правового и документационного обеспечения управления",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/238.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },    
+    {
+        "name": 239,
+        "status": "Помещение для хранения и профилактического обслуживания учебного оборудования",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/239.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+    {
+        "name": 240,
+        "status": "Отдел технического сопровождения и обеспечения информационных технологий",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/240.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Раздевалка (на данный момент)"
+    },
+    {
+        "name": 241,
+        "status": "Кафедра математики и информатики",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/241.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Компьютерная аудитория на данный момент наверное"
+    },
+    {
+        "name": 242,
+        "status": "Учебная кухня",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/242-1.webp", "img/content/second__floor/242-2.webp"],
+        "icon": "content/icon/educational_kitchen.*",
+        "floor": 2,
+        "note":"Учебная кухня"
+    },
+    {
+        "name": 243,
+        "status": "Серверная",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/243.webp"],
+        "icon": "content/icon/server.*",
+        "floor": 2,
+        "note":"Серверная"
+    },
+    {
+        "name": 244,
+        "status": "Учебный ресторан",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/244.webp"],
+        "icon": "content/icon/educational_restaurant.*",
+        "floor": 2,
+        "note":"Учебный ресторан"
+    },
+    {
+        "name": 245,
+        "status": "Лаборатория информационных ресурсов",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/245-1.webp", "img/content/second__floor/245-2.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Компьютерная аудитория"
+    },
+    {
+        "name": 246,
+        "status": "Лаборатория организации и принципов построения информационных систем",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/246-1.webp", "img/content/second__floor/246-2.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Компьютерная аудитория"
+    },
+    {
+        "name": 247,
+        "status": "Лаборатория программирования и баз данных",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/247-1.webp", "img/content/second__floor/247-2.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Компьютерная аудитория"
+    },
+    {
+        "name": 248,
+        "status": "Лаборатория вычислительной техники, архитектуры персонального компьютера и периферийных устройств",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/248-1.webp", "img/content/second__floor/248-2.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Компьютерная аудитория"
+    },
+    {
+        "name": 249,
+        "status": "Лаборатория системного и прикладного программирования технических средств обучения",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/249.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":"Компьютерная аудитория"
+    },
+    {
+        "name": 250,
+        "status": "Отдел технического обеспечения и сопровождения информационных технологий",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor/250.webp"],
+        "icon": "",
+        "floor": 2,
+        "note":""
+    },
+
+
+
+    {
+        "name": 338,
+        "status": "Лаборатория учебного банка и учебной бухгалтерии",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/338-1.webp", "img/content/second__floor__plus/338-2.webp"],
+        "icon": "",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 340,
+        "status": "Название кабинета",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/340.webp"],
+        "icon": "",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 341,
+        "status": "Директор высшей школы",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/341.webp"],
+        "icon": "content/icon/director_highSchool.*",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 342,
+        "status": "Название кабинета",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/342-1.webp", "img/content/second__floor__plus/342-2.webp", "img/content/second__floor__plus/342-3.webp"],
+        "icon": "",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 343,
+        "status": "Кафедра экономики и управления",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/343.webp"],
+        "icon": "",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 344,
+        "status": "Кабинет статистики, денежной и банковской статистики, банковского регулирования и надзора",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/344-1.webp", "img/content/second__floor__plus/344-2.webp"],
+        "icon": "",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 345,
+        "status": "Отдел социально-воспитательной работы",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/345.webp"],
+        "icon": "content/icon/dep_socWork.*",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 346,
+        "status": "Лаборатория товароведения, технического оснащения торговых организацийй и охраны труда",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/346-1.webp", "img/content/second__floor__plus/346-2.webp"],
+        "icon": "",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 347,
+        "status": "Помещение для хранения и профилактического обслуживания учебного оборудования",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/347.webp"],
+        "icon": "",
+        "floor": 2.5,
+        "note":""
+    },
+    {
+        "name": 348,
+        "status": "Кабинет бухгалтерского учета, налогообложения и аудита, деятельности кредитно-финансовых институтов",
+        "description": "Описание кабинета",
+        "img": ["img/content/second__floor__plus/348-1.webp", "img/content/second__floor__plus/348-2.webp"],
+        "icon": "",
+        "floor": 2.5,
+        "note":""
+    },
+
+
+
+    {
+        "name": 302,
+        "status": "Кабинет материаловедения и испытания материалов",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/302-1.webp", "img/content/third__floor/302-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 303,
+        "status": "Музей моды",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/303.webp"],
+        "icon": "content/icon/fashion_museum.*",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 304,
+        "status": "Кафедра дизайна",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/304.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 305,
+        "status": "Мастерская дизайн-проектирования",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/305-1.webp", "img/content/third__floor/305-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 306,
+        "status": "Учебная швейная мастерская",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/306-1.webp", "img/content/third__floor/306-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 307,
+        "status": "Кафедра дизайна",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/307-1.webp", "img/content/third__floor/307-2.webp"],
+        "icon": "content/icon/dep_design.*",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 308,
+        "status": "Отдел менеджмента качества",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/308.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 309,
+        "status": "Кабинет инженерных систем гостиницы и охраны труда",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/309.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 310,
+        "status": "Название кабинета",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/310.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 311,
+        "status": "Лаборатория художественно-конструкторского проектирования",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/311-1.webp", "img/content/third__floor/311-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 312,
+        "status": "Юридический отдел",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/312.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 313,
+        "status": "Кабинет гуманитарных дисциплин",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/313.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 314,
+        "status": "Проектно-аналитический офис",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/314.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 315,
+        "status": "Мастерская рисунка",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/315-1.webp", "img/content/third__floor/315-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 316,
+        "status": "Студия инженерной и компьютерной графики",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/316.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 317,
+        "status": "Мастерская живописи",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/317-1.webp", "img/content/third__floor/317-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 318,
+        "status": "Лаборатория компьютерного дизайна и дипломного проектирования",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/318.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 319,
+        "status": "Мастерская рисунка",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/319-1.webp", "img/content/third__floor/319-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 320,
+        "status": "Кабинет черчения и моделирования",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/320-1.webp", "img/content/third__floor/320-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 321,
+        "status": "Кафедра рисунка и живописи",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/321-1.webp", "img/content/third__floor/321-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 322,
+        "status": "Учебный бизнес-центр",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/322.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 323,
+        "status": "Кабинет рисунка и живописи",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/323-1.webp", "img/content/third__floor/323-2.webp", "img/content/third__floor/323-3.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 324,
+        "status": "Учебная (тренинговая) фирма по предоставлени. туристических услуг (турфирма)",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/324.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 325,
+        "status": "Мастерская рисунка и графики",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/325-1.webp", "img/content/third__floor/325-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 326,
+        "status": "Студия дизайна и веб-приложений",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/326-1.webp", "img/content/third__floor/326-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 327,
+        "status": "Название кабинета",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/327-1.webp", "img/content/third__floor/327-2.webp", "img/content/third__floor/327-3.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 328,
+        "status": "Помещение для самостоятельной работы",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/328.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 329,
+        "status": "Лаборатория разработки веб-приложений",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/329-1.webp", "img/content/third__floor/329-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 330,
+        "status": "Дизайн-мастерская 'Yellow Duck'",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/330-1.webp", "img/content/third__floor/330-2.webp", "img/content/third__floor/330-3.webp", "img/content/third__floor/330-4.webp"],
+        "icon": "content/icon/yellow_duck",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 331,
+        "status": "Лаборатория графики и культуры экспозиции",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/331-1.webp", "img/content/third__floor/331-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 332,
+        "status": "Лаборатория компьютерного дизайна",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/332.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 333,
+        "status": "Название кабинета",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/333-1.webp", "img/content/third__floor/333-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 334,
+        "status": "Кабинет информационных систем в профессиональной деятельности",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/334.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 335,
+        "status": "Кабинет стандартизации и сертификации, метрологии и подтверждения соответствии",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/335.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 337,
+        "status": "Мастерская 3D моделирования",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/337-1.webp", "img/content/third__floor/337-2.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    },
+    {
+        "name": 339,
+        "status": "Деканат Высшей школы дизайна",
+        "description": "Описание кабинета",
+        "img": ["img/content/third__floor/339.webp"],
+        "icon": "",
+        "floor": 3,
+        "note":""
+    }
+]
